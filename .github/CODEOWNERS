@@ -2,12 +2,16 @@
 
 ## Global
 
-* @stylescape @scape-agency @vanvianen
+* @pixi-systems @scape-agency @vanvianen
 
 ## Documentation
 
 README.md   @vanvianen
 /docs/      @vanvianen
+
+## Python
+
+*.py        @vanvianen
 
 ## Typescript
 
