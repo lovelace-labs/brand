@@ -6,10 +6,10 @@
 
 ---
 
-...
+Brand Resources for pixies.
 
 ---
 
-**Copyright 2024 Scape Agency. All Rights Reserved.**
-
----
+<p align="center">
+    <b>Copyright 2024 <a href="https://www.starling.associates" target="_blank">Starling Associates</a>. All Rights Reserved</b>
+</p>
