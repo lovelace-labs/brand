@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/lovelace-labs/brand/master/src/logo/logo.png" width="20%" height="20%" alt="lovelace logo">
+    <img src="https://raw.githubusercontent.com/lovelace-labs/brand/master/src/logo/logo.png" width="20%" height="20%" alt="Lovelace Labs logo">
 </p>
-<h1 align="center" style='border-bottom: none;'>pixi : brand</h1>
+<h1 align="center" style='border-bottom: none;'>brand identity</h1>
 <h3 align="center">Lovelace Labs</h3>
 
 ---
 
-Brand Resources for Lovelace.
+Brand Identity and Resources for Lovelace Labs.
 
 ---
 
